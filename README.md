@@ -1,10 +1,11 @@
 # Wirusy dla Davinciego
 
-[![](https:essa.pl)](https://www.youtube.com/channel/UCDWJrswIMoY5HWf9Oy4Cr5A/)
+Wbij na kanał własciciela: https://www.youtube.com/channel/UCDWJrswIMoY5HWf9Oy4Cr5A/
 
-Visit https://www.katacoda.com/adamcraftpl to view the profile and interactive scenarios
+UWAGA! Jeżeli to ty DaVinci to nie dawaj cenzury, ja nic nie robie szkodliwego w wirusach:)
 
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
+### Szkodliwość
+Wirusy -> To co musisz przetestować na maszynie wirtualnej
+Joke -> Można przetestowac na każdym komputerze
 
-For examples, visit https://github.com/katacoda/scenario-example
+### UWAGA! AUTOR NIE PONOSI ODPOWIEDZIALNOŚĆI ZA ODPALENIE WIRUSA NA PRAWDZIWYM KOMPUTERZE ZAMIAST JOKE
