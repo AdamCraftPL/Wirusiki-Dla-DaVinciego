@@ -1,6 +1,6 @@
 # Wirusy dla Davinciego
 
-[![](http://shields.katacoda.com/katacoda/adamcraftpl/count.svg)](https://www.youtube.com/channel/UCDWJrswIMoY5HWf9Oy4Cr5A/) "Get your profile on Katacoda.com")
+[![](https:essa.pl)](https://www.youtube.com/channel/UCDWJrswIMoY5HWf9Oy4Cr5A/)
 
 Visit https://www.katacoda.com/adamcraftpl to view the profile and interactive scenarios
 
