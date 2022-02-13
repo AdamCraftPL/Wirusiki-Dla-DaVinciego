@@ -8,4 +8,4 @@ UWAGA! Jeżeli to ty DaVinci to nie dawaj cenzury, ja nic nie robie szkodliwego 
 Wirusy -> To co musisz przetestować na maszynie wirtualnej
 Joke -> Można przetestowac na każdym komputerze
 
-### UWAGA! AUTOR NIE PONOSI ODPOWIEDZIALNOŚĆI ZA ODPALENIE WIRUSA NA PRAWDZIWYM KOMPUTERZE ZAMIAST JOKE
+### UWAGA! AUTOR NIE PONOSI ODPOWIEDZIALNOŚCI ZA ODPALENIE WIRUSA NA PRAWDZIWYM KOMPUTERZE ZAMIAST JOKE
